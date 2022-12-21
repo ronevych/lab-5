@@ -16,19 +16,19 @@ public:
     {
         return id;
     }
-    string getName()
+    string get_name()
     {
         return name;
     }
-    int getAge()
+    int get_age()
     {
         return age;
     }
-    string getCity()
+    int get_city()
     {
         return city;
     }
-    int getPhoneNumber()
+    get_phone_number()
     {
         return PhoneNumber;
     }
